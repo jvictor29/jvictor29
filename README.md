@@ -3,7 +3,7 @@
 </h1>
 
 <p align="">
-  🚀 Sócio da Nodsys uma startup de tecnologia • 💻 Desenvolvedor Web • 👨‍💼 Líder nato com visão empreendedora
+  🚀 Freelance da Nodsys uma startup de tecnologia • 💻 Desenvolvedor Web • 👨‍💼 Líder nato com visão empreendedora
 </p>
 
 <hr>
