@@ -13,7 +13,7 @@
   <li>📍 Brasil</li>
   <li>🎓 Certificado como Desenvolvedor FullStack pela <strong>Digital College</strong></li>
   <li>🎓 Certificado em Administração e Processos Gerenciais</li>
-  <li>📚 Atualmente estudando Analise e Desenvolvimento de Sistemas <strong>TypeScript</strong> e <strong>JavaScript</strong></li>
+  <li>📚 Atualmente estudando <strong>TypeScript</strong> e <strong>JavaScript</strong></li>
   <li>⚡ Focado em transformar ideias em produtos digitais funcionais</li>
 </ul>
 
@@ -21,7 +21,7 @@
 <p>
   Um projeto completo de loja virtual com HTML, CSS, Bootstrap e responsividade mobile.
   <br>
-  🔗 <a href="https://github.com/seu-usuario/nome-do-repositorio-ecommerce" target="_blank">Clique aqui para acessar o repositório</a>
+  🔗 <a href="[https://github.com/seu-usuario/nome-do-repositorio-ecommerce](https://github.com/jvictor29/ecomerce.git)" target="_blank">Clique aqui para acessar o repositório</a>
 </p>
 
 <h2>🛠️ Tecnologias e Ferramentas</h2>
