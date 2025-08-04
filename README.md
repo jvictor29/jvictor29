@@ -12,7 +12,7 @@
 <ul>
   <li>📍 Brasil</li>
   <li>🎓 Certificado como Desenvolvedor FullStack pela <strong>Digital College</strong></li>
-  <li>🎓 Certificado em Administração e Processos Gerenciais</li>
+  <li>🎓 Certificado em Administração, Processos Gerenciais e ADS</li>
   <li>📚 Atualmente estudando <strong>TypeScript</strong> e <strong>JavaScript</strong></li>
   <li>⚡ Focado em transformar ideias em produtos digitais funcionais</li>
 </ul>
@@ -45,8 +45,8 @@
 <h2>📫 Vamos conversar?</h2>
 <nav>
   <a href="https://www.linkedin.com/in/jvictor-prof" target="_blank">LinkedIn</a>|
-  <a href="mailto:seuemail@gmail.com">Email</a>|
-  <a href="https://seuportifolio.com" target="_blank">Portfólio</a>
+  <a href="joaobdops@gmail.com">Email</a>|
+  <a href="https://devjoaovictor.netlify.app/" target="_blank">Portfólio</a>
 </nav>
 
 <hr>
