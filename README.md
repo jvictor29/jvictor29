@@ -21,7 +21,7 @@
 <p>
   Um projeto completo de loja virtual com HTML, CSS, Bootstrap e responsividade mobile.
   <br>
-  🔗 <a href="[https://github.com/seu-usuario/nome-do-repositorio-ecommerce](https://github.com/jvictor29/ecomerce.git)" target="_blank">Clique aqui para acessar o repositório</a>
+  🔗 <a href="https://github.com/jvictor29/ecomerce.git" target="_blank">Clique aqui para acessar o repositório</a>
 </p>
 
 <h2>🛠️ Tecnologias e Ferramentas</h2>
