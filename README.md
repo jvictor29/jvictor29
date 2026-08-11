@@ -10,9 +10,9 @@
 
 <h2>🧠 Sobre mim</h2>
 <ul>
-  <li>📍 Brasil</li>
+  <li>📍 Portugal</li>
   <li>🎓 Certificado como Desenvolvedor FullStack pela <strong>Digital College</strong></li>
-  <li>🎓 Certificado em Administração, Processos Gerenciais e ADS</li>
+  <li>🎓Engenharia de Software</li>
   <li>📚 Atualmente estudando <strong>TypeScript</strong> e <strong>JavaScript</strong></li>
   <li>⚡ Focado em transformar ideias em produtos digitais funcionais</li>
 </ul>
